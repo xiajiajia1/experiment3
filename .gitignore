@@ -1,0 +1,7 @@
+*.properties
+*.iml
+.gitignore.swp
+/build/
+/.gradle/
+/.idea/
+/My Application/
